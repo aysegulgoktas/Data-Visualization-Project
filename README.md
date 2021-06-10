@@ -19,6 +19,9 @@ There are some data visualization tools that I will use while doing a detailed a
 
 ### References ###
 https://www.bcg.com/publications/2020/covid-automotive-industry-forecasting-scenarios
+
 marklines.com/en/report/rep2073_202010
+
+https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-automotive-industry/
 
 
