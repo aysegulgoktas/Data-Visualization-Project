@@ -18,6 +18,7 @@ This year we decided to buy a new car. But, we noticed that the prices have incr
 There are some data visualization tools that I will use while doing a detailed analysis of this project. I chose to use the pyhton because it is easy.
 
 ### References ###
-
+https://www.bcg.com/publications/2020/covid-automotive-industry-forecasting-scenarios
+marklines.com/en/report/rep2073_202010
 
 
