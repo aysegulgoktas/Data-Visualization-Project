@@ -1,4 +1,5 @@
-  MIS-376-Project                                                             
+  MIS-376-Project     
+  Impact of COVID-19 on Automotive Industry.
 
 Step A - About the problem
 
