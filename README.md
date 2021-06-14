@@ -1,5 +1,12 @@
-  # MIS-376-Project #   
-  ##  Impact of COVID-19 on Automotive Industry. ##
+
+ 
+ # Knowledge Mapping and Data Visualization Project #
+Data knowledge visualization term project.
+This project is developed by Alper Doğukan Nizamoğlu.
+## What Is The Project Topic ? ##
+ Impact of COVID-19 on Automotive Industry.
+
+Covid-19 impact on violence against women
 
  ### Step A - About the problem ###
 
