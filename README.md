@@ -29,5 +29,6 @@ https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-autom
 https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-automotive-industry/
 https://www.sozcu.com.tr/2020/otomotiv/corona-virusu-otomobil-satislarini-ne-kadar-etkileyecek-5728768/?utm_source=dahafazla_haber&utm_medium=free&utm_campaign=dahafazlahaber
 https://www.pm-review.com/global-pandemic-impacts-automobile-industry-figures-in-q1-2020/
+https://www.w3schools.com/python/matplotlib_scatter.asp
 
 
