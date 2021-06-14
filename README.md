@@ -3,12 +3,11 @@
  # Knowledge Mapping and Data Visualization Project #
 Data knowledge visualization term project.
 This project is developed by Ayşegül GÖKTAŞ.
+
 ## What Is The Project Topic ? ##
  Impact of COVID-19 on Automotive Industry.
 
-Covid-19 impact on violence against women
-
- ### Step A - About the problem ###
+### Step A - About the problem ###
 
 Impact of COVID-19 on Automotive Industry.
 While the world economy came to the brink of a major global crisis due to the Covid-19 epidemic, the process had serious negative effects on the agriculture, retail and automotive sectors, especially in service sectors such as tourism, transportation and aviation. The automotive industry, which was already under pressure before the Covid-19 epidemic, was deeply affected during this epidemic process. With disrupted supply chains, falling demand and computers from home and short-term work plans, the automotive industry is predicted to face much greater challenges. On January 23, 2020, with the closure of the factories as a result of the quarantine of the city of Wuhan in China, problems began to be seen in the automotive industry. Along with the epidemic, strict measures in major markets, curfews, consumer panic and economic uncertainties caused a serious decline in automotive sales.
