@@ -2,7 +2,7 @@
  
  # Knowledge Mapping and Data Visualization Project #
 Data knowledge visualization term project.
-This project is developed by Alper Doğukan Nizamoğlu.
+This project is developed by Ayşegül GÖKTAŞ.
 ## What Is The Project Topic ? ##
  Impact of COVID-19 on Automotive Industry.
 
