@@ -21,7 +21,7 @@ COVID-19 has affected daily life and is slowing the global economy. This epidemi
 This year we decided to buy a new car. But, we noticed that the prices have increased a lot compared to the last years. Since we couldn't afford to buy a new car, we decided to look for second hand products. But their prices were too high. We realized that, this was one of the effects of covid-19. Due to the decrease in production, the demand became unmet and car prices rose a lot with taxes.Having witnessed this process, I decided to examine this problem in my project.
 
 ### Visualization Tool ###
-There are some data visualization tools that I will use while doing a detailed analysis of this project. I chose to use the pyhton because it is easy.
+There are lots of data visualization tools and I chose to use the Google Colab.
 
 ### References ###
 https://www.bcg.com/publications/2020/covid-automotive-industry-forecasting-scenarios
