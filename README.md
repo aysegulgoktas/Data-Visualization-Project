@@ -24,11 +24,11 @@ This year we decided to buy a new car. But, we noticed that the prices have incr
 There are lots of data visualization tools and I chose to use the Google Colab.
 
 ### References ###
-1- https://www.bcg.com/publications/2020/covid-automotive-industry-forecasting-scenarios
-2- https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-automotive-industry/
-3- https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-automotive-industry/
-4- https://www.sozcu.com.tr/2020/otomotiv/corona-virusu-otomobil-satislarini-ne-kadar-etkileyecek-5728768/?utm_source=dahafazla_haber&utm_medium=free&utm_campaign=dahafazlahaber
-5- https://www.pm-review.com/global-pandemic-impacts-automobile-industry-figures-in-q1-2020/
-6- https://www.w3schools.com/python/matplotlib_scatter.asp
+https://www.bcg.com/publications/2020/covid-automotive-industry-forecasting-scenarios
+https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-automotive-industry/ 
+https://www.counterpointresearch.com/weekly-updates-covid-19-impact-global-automotive-industry/ 
+https://www.sozcu.com.tr/2020/otomotiv/corona-virusu-otomobil-satislarini-ne-kadar-etkileyecek-5728768/?utm_source=dahafazla_haber&utm_medium=free&utm_campaign=dahafazlahaber
+https://www.pm-review.com/global-pandemic-impacts-automobile-industry-figures-in-q1-2020/
+https://www.w3schools.com/python/matplotlib_scatter.asp
 
 
