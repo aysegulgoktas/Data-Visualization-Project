@@ -6,6 +6,9 @@ This project is developed by Ayşegül GÖKTAŞ.
 
 ## What Is The Project Topic ? ##
  Impact of COVID-19 on Automotive Industry.
+ 
+ ## Video Link ##
+ https://youtu.be/qUZUw8CL-qI
 
 ### Step A - About the problem ###
 
